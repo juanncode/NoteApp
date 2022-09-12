@@ -1,4 +1,4 @@
-package com.github.juanncode.notesapp
+package com.github.juanncode.notesapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
